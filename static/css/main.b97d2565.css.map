@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b97d2565.css","mappings":"AAAA,UAKQ,UAAW,CAFX,WAAY,CACZ,iBAAkB,CAFlB,WAMR","sources":["components/Home.css"],"sourcesContent":["Container {\n   \n        width: 500px;\n        margin: auto;\n        text-align: center;\n        color: blue;\n      \n      \n}"],"names":[],"sourceRoot":""}
