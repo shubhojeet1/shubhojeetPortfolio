@@ -8,7 +8,7 @@ import { FaSun, FaMoon, FaInstagram, FaGithub, FaLinkedin } from 'react-icons/fa
 import Header from "./components/Header";
 import Profile from "./components/Profile";
 import Social from "./components/Social";
-// import Title from "./components/Title";
+import Title from "./components/Title";
 import {
   ChakraProvider,
   Box,
@@ -53,7 +53,7 @@ function App() {
       <Header></Header>
       <Social></Social>
       <Profile></Profile>
-      {/* <Title/> */}
+      <Title/>
     </VStack>
      
    </ChakraProvider>

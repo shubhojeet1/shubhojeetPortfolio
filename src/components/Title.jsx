@@ -6,14 +6,13 @@ export default function  Title(){
         <HStack>
     
             <Text color="orange.500"  fontSize={45}>Hi , I am Shubhojeet Chatterjee</Text>
-            <Image sizes="20" borderRadius="50%" src="https://avatars.githubusercontent.com/u/103964132?v=4"/>
+          
             
           
         </HStack>
-        <HStack paddingBottom="100px">
+        <HStack>
             <Text>
-
-            <Text  color="orange.500"  fontSize={45}>Full Stack Web Developer</Text>
+            Innovative Web Developer with a passion to implement and launch new projects. Detail oriented professional with the ability to translate business requirements into technical solutions. Looking to start a career as an entry-level software engineer with a firm driven by technology.
             </Text>
         </HStack>
       
