@@ -24,7 +24,7 @@ function Header() {
                     <Text fontSize="7xl" fontWeight="bold" bgGradient="linear(to-r, cyan.400, blue.500, purple.600)" bgClip='text' >Shubhojeet Chatterjee</Text>
                     <Text color={isDark ? "gray.200" : "gray.500"}>Full Stack Web Developer</Text>
                     <Button mt={8} colorScheme="blue" onClick={() =>
-                        window.open("https://pawan.live")
+                        window.open("#")
                     }>Hire Me</Button>
 
                 </Box>
