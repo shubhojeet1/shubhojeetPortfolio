@@ -31,7 +31,7 @@ function App() {
       {/* <Navbar/>
      <Title/>  */}
       <VStack p={5}>
-      <Flex w="100%">
+      <Flex w="100%" top="0" position="sticky" overflow="hidden">
         <Heading
           ml="8" size="md" fontWeight='semibold' color="cyan.400">Shubhojeet</Heading>
         <HStack spacing="12" marginBottom="20px" marginLeft="20px">
