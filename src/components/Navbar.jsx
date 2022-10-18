@@ -8,6 +8,7 @@ import { HStack,Box, Container ,Text, Button ,Image} from "@chakra-ui/react";
   <a href=""><Text  color="white" fontWeight="380"  _hover={{color: '#3399ff' }}>Projects</Text></a>
    <a href=""><Text  color="white" fontWeight="380"  _hover={{color: '#3399ff' }}>Contact</Text> </a>
    <a href=""><Text  color="white" fontWeight="380"  _hover={{color: '#3399ff' }}>Resume</Text></a>
+   <a href=""></a>
     </HStack>
    
     </Container>

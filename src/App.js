@@ -36,11 +36,11 @@ function App() {
           ml="8" size="md" fontWeight='semibold' color="cyan.400">Shubhojeet</Heading>
         <HStack spacing="12" marginBottom="20px" marginLeft="20px">
         <a href=""><Text color="orange" fontWeight="380"  _hover={{color: '#3399ff' }} >Home</Text></a>
-  <a href=""> <Text  color="orange" fontWeight="380"  _hover={{color: '#3399ff' }}>About Me</Text></a>
+  <a href=""> <Text  color="orange" fontWeight="380" _hover={{color: '#3399ff' }}>About Me</Text></a>
   <a href=""><Text  color="orange" fontWeight="380"  _hover={{color: '#3399ff' }}>Skills</Text></a> 
   <a href=""><Text  color="orange" fontWeight="380"  _hover={{color: '#3399ff' }}>Projects</Text></a>
    <a href=""><Text  color="orange" fontWeight="380"  _hover={{color: '#3399ff' }}>Contact</Text> </a>
-   <a href=""><Text  color="orange" fontWeight="380"  _hover={{color: '#3399ff' }}>Resume</Text></a>
+   <a href="https://drive.google.com/file/d/1bxX2B5la9yGHfo9-qcsvJsRiSINilRaE/view?usp=sharing"><Text  color="orange" fontWeight="380"  _hover={{color: '#3399ff' }}>Resume</Text></a>
         </HStack>
         <Spacer></Spacer>
         
